@@ -6,3 +6,9 @@ git status -> verifica quais alterações foram realizadas;
 git add -> adiciona as alterações;
 git commit -> salva as alterações na branch com uma msg;
 git push -> enviar as alterações para o repo no github
+
+
+problema ocorreu ao realizar o pull para o meu dispositivo:
+# fatal: refusing to merge unrelated histories
+como foi solucionado:
+# git pull origin master --allow-unrelated-histories
