@@ -1,1 +1,8 @@
 testando git
+
+sequência de comandos para envio de arquivos para o git;
+
+git status -> verifica quais alterações foram realizadas;
+git add -> adiciona as alterações;
+git commit -> salva as alterações na branch com uma msg;
+git push -> enviar as alterações para o repo no github
